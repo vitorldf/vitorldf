@@ -24,3 +24,4 @@
 
 Sou um engenheiro de software em busca de oportunidades no mundo da programação.
 
+
