@@ -24,4 +24,4 @@
 
 Sou um engenheiro de software em busca de oportunidades no mundo da programação.
 
-
+![Snake animation](https://github.com/vitorldf/vitorldf/blob/output/github-contribution-grid-snake.svg
