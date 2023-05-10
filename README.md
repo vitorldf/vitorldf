@@ -8,7 +8,7 @@
 <!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://wa.me/message/KKEBTTSV3GD4B1) -->
 
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorldf&show_icons=true&theme=dracula)
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorldf&show_icons=true)
 
 
 ## Ferramentas utilizadas no meu dia a dia
