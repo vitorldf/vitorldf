@@ -1,4 +1,9 @@
-### Olá! eu sou o Vitor Fidelis ✌️
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vitor+Fidelis;I'm+23+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
+<div align="center >
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vitor.luizdepaulafidelis/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
@@ -7,9 +12,15 @@
 )](https://www.linkedin.com/in/vitorldf/)
 <!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://wa.me/message/KKEBTTSV3GD4B1) -->
+  
+</div>
 
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorldf&show_icons=true)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorldf&show_icons=true&count_private=true&hide_border=true&title_color=ff1e4f&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Fidelis github stats" /> 
+  
+  <img width="41%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorldf&layout=compact&hide_border=true&title_color=ff1e4f&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 ## Ferramentas utilizadas no meu dia a dia
 
@@ -25,4 +36,4 @@
 Sou um engenheiro de software em busca de oportunidades no mundo da programação.
 
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=footer"/>
