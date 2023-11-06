@@ -3,17 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vitor+Fidelis;I'm+23+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<div align="center >
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vitor.luizdepaulafidelis/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/vitorldf/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/vitorldf/)
-<!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-)](https://wa.me/message/KKEBTTSV3GD4B1) -->
   
-</div>
+
+<div align="center"> 
+<a href="https://instagram.com/vitorldf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"</a>
+<a href="https://www.facebook.com/vitor.luizdepaulafidelis/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  target="_blank"></a>
+<a href = "mailto:cmp.1a.vitorluizpfidelis@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vitorldf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
 
 <div align="center">  
@@ -34,6 +32,12 @@
 </div><br/>
 
 Sou um engenheiro de software em busca de oportunidades no mundo da programação.
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{vitoldf}/count.svg" /></p> 
+<br>
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=footer"/>
