@@ -6,14 +6,17 @@ on:
   workflow_dispatch: 
 
 jobs:
-  generate-metrics:
+ generate-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Gerar Métricas Avançadas
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           token: ${{ secrets.PRIVATE_STATS_TOKEN }}
+          committer_token: ${{ secrets.PRIVATE_STATS_TOKEN }} 
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           plugin_isocalendar: yes
