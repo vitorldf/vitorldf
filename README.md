@@ -15,10 +15,6 @@
 ## 👨‍💻 Sobre mim
 Engenheiro de Software focado em arquiteturas modernas, automação e sistemas distribuídos. Especialista em entregar aplicações robustas do front ao cloud.
 
-- 🏢 **Foco:** Arquiteturas escaláveis e integrações empresariais.
-- 💡 **Projetos:** Soluções para agronegócio e sistemas de mensageria de alta performance.
-- 🧠 **Tech:** entusiasta de **IA (RAG)**, filas assíncronas e otimização de bancos de dados.
-
 ---
 
 ## 🛠️ Stack Tecnológica
@@ -26,13 +22,10 @@ Engenheiro de Software focado em arquiteturas modernas, automação e sistemas d
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/BullMQ-BB2025?style=flat-square&logo=bull&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Neon_DB-00E599?style=flat-square&logo=neon&logoColor=black">
@@ -43,19 +36,24 @@ Engenheiro de Software focado em arquiteturas modernas, automação e sistemas d
 
 ---
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <b>📊 Estatísticas Gerais</b> <br><br>
-      <img src="https://raw.githubusercontent.com/vitorldf/vitorldf/main/github-metrics.svg" width="100%">
-    </td>
-    <td width="50%" align="center">
-      <b>🐍 Contribuições</b> <br><br>
-      <img src="https://raw.githubusercontent.com/vitorldf/vitorldf/output/github-contribution-grid-snake-dark.svg" width="100%">
-      <br><br>
-      <img src="https://komarev.com/ghpvc/?username=vitorldf&color=ff1e4f&style=flat-square&label=VISUALIZAÇÕES" />
-    </td>
-  </tr>
-</table>
+## 📊 Estatísticas Profissionais
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vitorldf/vitorldf/main/github-metrics.svg" alt="Métricas do Vitor" width="85%">
+</div>
+
+---
+
+## 🐍 Histórico de Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorldf/vitorldf/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorldf/vitorldf/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitorldf/vitorldf/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=vitorldf&color=ff1e4f&style=flat-square&label=VISUALIZAÇÕES" />
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff1e4f&height=100&section=footer"/>
